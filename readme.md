@@ -1,6 +1,8 @@
 ![Repository Banner](headerimage.png)
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
+## [Download Pdf File](https://usersdrive.com/7m77j87sl3fz.html)
+
 ## Table of Contents
 
 - [UI Graphics](#ui-graphics)
